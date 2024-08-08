@@ -1,1 +1,30 @@
 /* Style your dropdown below! */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Open Sans'm sans-serif;
+    font-size: 32px;
+    width: 400px;
+}
+
+#toggle {
+    cursor: pointer;
+    width: 400px;
+    background-color: grey;
+    color: white;
+    font-family: 'Open Sans'm sans-serif;
+    font-size: 40px;
+}
+
+#dropDown {
+    background-color: lightgray;
+}
